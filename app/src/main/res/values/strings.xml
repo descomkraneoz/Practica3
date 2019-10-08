@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practica3</string>
+
+    <string name="tvNombre">Manuel Martinez Serrano</string>
+    <string name="swNegrita">Negrita</string>
+    <string name="cbCursiva">Cursiva</string>
+    <string name="tvFuente">Fuente</string>
+    <string name="rbSans">Sans</string>
+    <string name="rbSerif">Serif</string>
+    <string name="rbMonospace">Monospace</string>
+    <string name="tvTamanio">Tamaño ->&#160;</string>
+    <string name="tvResultadoTamanio">10</string>
+    <string name="btColorTexto">COLOR TEXTO</string>
+    <string name="btColorFondo">COLOR FONDO</string>
+
+
+
+</resources>
